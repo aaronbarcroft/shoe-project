@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+.shoe-section {
+    height: 287px;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgb(205,	54,	115) 0%, rgb(235,	94,	54	) 100%);
+    color: white;
+}
+.descrip {
+    text-align: right;
+    padding: 10px;
+
+}
